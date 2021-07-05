@@ -29,6 +29,7 @@ Ghost Clan's Fastest Discord Server Nuker Made By ! 𝙎𝙢𝙤𝙠𝙚𝙧𝙋
 > 1.Run Install.bat Just To Make Sure You Have All modules install correctly  
 > 2.After Completeing Step 1 Configure Config.Json As Told In The Above Method  
 > 3.Run Nuker.bat And Your Bot Ready To Nuke Servers  
-#Note:
+
+# Note:
 Read COPYRIGHT.md Before Trying To Skid/Copy This Nuker
 --END--
