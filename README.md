@@ -1,4 +1,4 @@
-# Read COPYRIGHT.md First Before Trying Skid/Copy Anything  
+# Read COPYRIGHT.md First 
 # GhostsNuker v1
 Ghost Clan's Fastest Discord Server Nuker Made By ! 𝙎𝙢𝙤𝙠𝙚𝙧𝙋𝙡𝙖𝙮𝙯_𝙭𝘿xˢᵖʸ#5305 | [Support Server](https://discord.gg/fpwZxqnGDy)
 # Preview:
