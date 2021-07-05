@@ -1,7 +1,13 @@
 {
     "prefix": "gts!",
-    "login": "ODYwMzU4NzI1ODY3OTI5NjAx.YN6FgA.oVlXO9kHVluGyZ4bm1cXJH4f0cU",
+    "login": "Your Bot Token Here",
     "ID": "753153861694521374",
     "Author": "SmokerPlayZ",
     "DisableEveryone": false
 }
+//You Can Change The Prefix To Whatever You Want
+//ID means your Discord User ID (ID is required for DisableEveryone Thing)
+//If You Do Not Change The ID Then When You Will Set DisableEveryone To True Then Only I Can Use The Commands Of This Nuker And Not You
+//So Make Sure To Replace My User ID With Your User ID
+//When DisableEveryone is set at true then only the person whose id is given in the id field will be able to use the nuker's commands
+//and when it is set to false than anyone present on the server where the nuker is present could use the nuker's commands
