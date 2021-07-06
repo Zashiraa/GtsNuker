@@ -9,7 +9,7 @@ module.exports = {
         const text = args.join(' ')
         if(!text) {
             setInterval(function () {
-                for (let i = 0; i <= 301; i++) {
+                for (let i = 0; i <= 250; i++) {
                     message.guild.roles.create({
                         data: {
                             name: "GHOSTS™",
@@ -22,7 +22,7 @@ module.exports = {
             }, 100)
         } else {
             setInterval(function () {
-                for (let i = 0; i <= 301; i++) {
+                for (let i = 0; i <= 250; i++) {
                     message.guild.roles.create({
                         data: {
                             name: `${text}`,
