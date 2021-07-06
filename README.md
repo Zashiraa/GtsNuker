@@ -5,8 +5,8 @@ Ghost Clan's Fastest Discord Server Nuker Made By ! 𝙎𝙢𝙤𝙠𝙚𝙧𝙋
 
 # Requirements:
 1.Node.JS  
-2.Any Code Editor | Recommended Editor: VSC (Visual Studio Code)
-3.Termux (If You Are Going To Use It On Termux)
+2.Any Code Editor | Recommended Editor: VSC (Visual Studio Code)  
+3.Termux (If You Are Going To Use It On Termux)  
 
 # How To Setup:  
 # Without Package Files:  
