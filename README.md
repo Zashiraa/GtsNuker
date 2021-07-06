@@ -9,6 +9,7 @@ Ghost Clan's Fastest Discord Server Nuker Made By ! 𝙎𝙢𝙤𝙠𝙚𝙧𝙋
 
 # Requirements For Phone Users:
 1.Termux  
+2.Any Phone Code Editor If You Are Having Problems With Editing Config Files
 
 # How To Setup:  
 # Without Package Files:  
