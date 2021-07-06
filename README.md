@@ -30,7 +30,7 @@ Ghost Clan's Fastest Discord Server Nuker Made By ! 𝙎𝙢𝙤𝙠𝙚𝙧𝙋
 3.Go To Bot Section And Scroll Down Until You See **Privileged Gateway Intents**
 4.Check Both `Presence Intent` And `Server Members Intent`    
 5.Save Changes
-![example1]((https://media.discordapp.net/attachments/782211920416735252/789810856460419092/unknown.png?width=1409&height=400))
+![example1](https://media.discordapp.net/attachments/782211920416735252/789810856460419092/unknown.png?width=1409&height=400)
 
 # Setup Nuker:  
 # Without Package Files:  
