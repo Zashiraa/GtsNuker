@@ -16,7 +16,7 @@ Ghost Clan's Fastest Discord Server Nuker Made By ! 𝙎𝙢𝙤𝙠𝙚𝙧𝙋
 > 9.Again Hit Enter Key In Keywords Cuz Its Not Needed  
 > 10.In Author Enter smoker And Press The Enter Key  
 > 11.Just Hit Enter Key When It Asks License  
-> 12.When It Asks Is This OK? Type Enter And Hit Enter Key  
+> 12.When It Asks Is This OK? Type Yes And Hit Enter Key  
 > 13.Now System Will Install The Necessary Modules  
 > 14.Now Open Config.Json In Either Notepad or any other text or code editor  
 > 15.In Config.Json You Will Find A Login Field Like This: "login": "Enter Your Bot Token Here"  
