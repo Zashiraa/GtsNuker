@@ -16,7 +16,7 @@ Ghost Clan's Fastest Discord Server Nuker Made By ! 𝙎𝙢𝙤𝙠𝙚𝙧𝙋
 `10.DESTROY (THE ULITMATE COMBINATION OF ALL THE ABOVE LISTED COMMANDS)`
 
 # Extra:
-`DISABLE EVERYONE:` You Will Find This Option In The Config File | When Set On True It Restricts Everyone Except The Person 
+`DISABLE EVERYONE:` You Will Find This Option In The Config File. When Set On True It Restricts Everyone Except The Person 
 Whose User ID Is Given In The Config File From Running The Commands Of The Nuker
 
 # Requirements:
