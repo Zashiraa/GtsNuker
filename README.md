@@ -81,7 +81,7 @@ Whose User ID Is Given In The Config File From Running The Commands Of The Nuker
 13.You Can Either Change DisableEveryone To False Or True. It Depends On You  
 14.Now Go To Termux And Do `node .`  
 15.Now The Nuker Is Ready
-16.If You Have Any Problem In Setting Up The Nuker On Phone Then Refer To This Video: https://www.youtube.com/watch?v=rl5s_N8JkaQ
+16.If You Have Any Problem In Setting Up The Nuker On Phone Then Refer To This [Video](https://www.youtube.com/watch?v=rl5s_N8JkaQ)  
 
 # Notes:
 1.Read COPYRIGHT.md Before Trying To Skid/Copy This Nuker  
