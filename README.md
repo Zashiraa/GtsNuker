@@ -25,8 +25,8 @@ Whose User ID Is Given In The Config File From Running The Commands Of The Nuker
 
 # Requirements For Phone Users:
 1.Termux  
-2.Any Phone Code Or Text Editor If You Are Having Problems With Editing Config File 
-3.Git And Node.JS Installed In Termux
+2.Any Phone Code Or Text Editor If You Are Having Problems With Editing Config File  
+3.Git And Node.JS Installed In Termux   
 
 # How To Setup:  
 # Setup Bot:  
