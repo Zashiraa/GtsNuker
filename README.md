@@ -13,7 +13,11 @@ Ghost Clan's Fastest Discord Server Nuker Made By ! 𝙎𝙢𝙤𝙠𝙚𝙧𝙋
 `7.BAN ALL MEMBERS`  
 `8.KICK ALL MEMBERS`  
 `9.UNBAN ALL BANNED MEMBERS`  
-`10.DESTROY (THE ULITMATE COMBINATION OF ALL THE ABOVE LISTED COMMANDS)`    
+`10.DESTROY (THE ULITMATE COMBINATION OF ALL THE ABOVE LISTED COMMANDS)`
+
+# Extra:
+`DISABLE EVERYONE:` You will find this option in config.json | When set on true it restricts everyone except the person 
+whose user ID is given in config file from running the commands of the nuker
 
 # Requirements:
 1.Node.JS  
