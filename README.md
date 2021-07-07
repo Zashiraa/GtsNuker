@@ -25,7 +25,8 @@ Whose User ID Is Given In The Config File From Running The Commands Of The Nuker
 
 # Requirements For Phone Users:
 1.Termux  
-2.Any Phone Code Editor If You Are Having Problems With Editing Config File
+2.Any Phone Code Or Text Editor If You Are Having Problems With Editing Config File 
+3.Git And Node.JS Installed In Termux
 
 # How To Setup:  
 # Setup Bot:  
@@ -63,6 +64,23 @@ Whose User ID Is Given In The Config File From Running The Commands Of The Nuker
 1.Run Install.bat Just To Make Sure You Have All modules install correctly  
 2.After Completeing Step 1 Configure Config.Json As Told In The Above Method  
 3.Run Nuker.bat And Your Bot Ready To Nuke Servers  
+
+# On Phone:
+1.Install Termux
+2.In Termux Run Command `pkg install git`
+3.Then Do `pkg install nodejs`
+4.Change The Directory In Termux To The Location Where You Want To Store The Nuker
+5.Now Do `git clone https://github.com/ELITE-SMOKER-69/GtsNuker.git` In Termux 
+6.Then Again Change Directory to The Folder Where The Nuker Is Clone. Example: `cd GtsNuker`
+7.Now Do `npm i discord.js fs chalk`
+8.Wait For NPM To Install The Modules
+9.After The Modules Are Installed Go To Your App Store And Download Any Text/Code Editor And Open `config.json` In It
+10.Change "Your Bot Token Here" To Your Bot's Token And Make Sure Its Enclosed In Double Quotes
+11.You Can Change Prefix To Whatever You Like
+12.Change Value Of ID To Your Discord User ID
+13.You Can Either Change DisableEveryone To False Or True. It Depends On You
+14.Now Go To Termux And Do `node .`
+15.Now The Nuker Is Ready
 
 # Notes:
 1.Read COPYRIGHT.md Before Trying To Skid/Copy This Nuker  
