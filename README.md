@@ -1,5 +1,5 @@
 # GhostsNuker v1.2
-Ghost Clan's Fastest Discord Server Nuker Made By ! 𝙎𝙢𝙤𝙠𝙚𝙧𝙋𝙡𝙖𝙮𝙯_𝙭𝘿xˢᵖʸ#5305 | [Support Server](https://discord.gg/fpwZxqnGDy)
+A Fast Discord Server Nuker Made By ! 𝙎𝙢𝙤𝙠𝙚𝙧𝙋𝙡𝙖𝙮𝙯_𝙭𝘿xˢᵖʸ#5305 | [Support Server](https://discord.gg/fpwZxqnGDy)
 # Preview:
 <img align="bottom" alt="preview" width="512px" src="https://media.discordapp.net/attachments/853661592796921906/861463806807244820/unknown.png" />
 
