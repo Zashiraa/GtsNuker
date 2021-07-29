@@ -11,7 +11,7 @@ module.exports = {
         const Help = new Discord.MessageEmbed()
         .setAuthor(message.author.username, message.author.displayAvatarURL({ dynamic: true }))
         .setTitle("GHOSTS™")
-        .setDescription("**WHY TO BE THE MORTAL HERO WHEN YOU CAN BE THE IMMORTAL VILLAIN**")
+        .setDescription("**COMMANDS:**")
         .addField("Mass Channel Spam", `\`${prefix}sc\` [TEXT]`)
         .addField("Mass Channel Spam + Ping Spam", `\`${prefix}wizz\` [TEXT]`)
         .addField("Mass Roles Spam", `\`${prefix}sr\` [TEXT]`)
