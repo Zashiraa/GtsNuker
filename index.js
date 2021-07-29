@@ -57,7 +57,7 @@ nuker.on('message', async message => {
         const Help = new Discord.MessageEmbed()
             .setAuthor(message.author.username, message.author.displayAvatarURL({ dynamic: true }))
             .setTitle("GHOSTS™")
-            .setDescription("**GtsNuker All Commands:**")
+            .setDescription("**COMMANDS:**")
             .addField("Mass Channel Spam", `\`${prefix}sc\` [TEXT]`)
             .addField("Mass Channel Spam + Ping Spam", `\`${prefix}wizz\` [TEXT]`)
             .addField("Mass Roles Spam", `\`${prefix}sr\` [TEXT]`)
