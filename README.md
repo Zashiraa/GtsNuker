@@ -72,7 +72,7 @@ Whose User ID Is Given In The Config File From Running The Commands Of The Nuker
 4.Change The Directory In Termux To The Location Where You Want To Store The Nuker  
 5.Now Do `git clone https://github.com/ELITE-SMOKER-69/GtsNuker.git` In Termux   
 6.Then Again Change Directory to The Folder Where The Nuker Is Clone. Example: `cd GtsNuker`  
-7.Now Do `npm i discord.js fs chalk`  
+7.Now Do `npm i discord.js@12.5.3 fs chalk`  
 8.Wait For NPM To Install The Modules  
 9.After The Modules Are Installed Go To Your App Store And Download Any Text/Code Editor And Open `config.json` In It  
 10.Change "Your Bot Token Here" To Your Bot's Token And Make Sure Its Enclosed In Double Quotes  
